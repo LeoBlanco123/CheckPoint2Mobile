@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cadastro App</string>
+    <string name="cadastrar_pessoa">Cadastrar Pessoa</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="genero">Gênero</string>
+    <string name="lista_pessoas">Lista de Pessoas</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="spinner_prompt">Selecione o gênero</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+
+    <!-- Array para o spinner de gênero -->
+    <string-array name="genero_array">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+    <!-- Ações -->
+    <string name="cadastrar">Cadastrar</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <!-- Mensagens -->
+    <string name="pessoa_atualizada">Pessoa atualizada com sucesso</string>
+    <string name="pessoa_deletada">Pessoa deletada com sucesso</string>
+    <string name="erro_campos_vazios">Preencha todos os campos</string>
+    <string name="confirmar_deletar">Tem certeza que deseja deletar esta pessoa?</string>
+
+    <!-- Adicionando referências para as dicas (hint) dos campos -->
+    <string name="hint_nome">Digite o nome</string>
+    <string name="hint_email">Digite o email</string>
+    <string name="hint_telefone">Digite o telefone</string>
+    <string name="hint_endereco">Digite o endereço</string>
+</resources>

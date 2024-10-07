@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="cadastrar_pessoa">Register Person</string>
+    <string name="nome">Name</string>
+    <string name="email">Email</string>
+    <string name="telefone">Phone</string>
+    <string name="endereco">Address</string>
+    <string name="genero">Gender</string>
+    <string name="lista_pessoas">List of People</string>
+    <string name="editar">Edit</string>
+    <string name="deletar">Delete</string>
+    <string name="spinner_prompt">Select Gender</string>
+    <string name="masculino">Male</string>
+    <string name="feminino">Female</string>
+
+    <!-- Array for the gender spinner -->
+    <string-array name="genero_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!-- Actions -->
+    <string name="cadastrar">Register</string>
+    <string name="salvar">Save</string>
+    <string name="cancelar">Cancel</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+
+    <!-- Messages -->
+    <string name="pessoa_atualizada">Person updated successfully</string>
+    <string name="pessoa_deletada">Person deleted successfully</string>
+    <string name="erro_campos_vazios">Please fill in all fields</string>
+    <string name="confirmar_deletar">Are you sure you want to delete this person?</string>
+
+    <!-- Adding hints for the fields -->
+    <string name="hint_nome">Enter name</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_telefone">Enter phone</string>
+    <string name="hint_endereco">Enter address</string>
+</resources>
